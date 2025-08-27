@@ -1,4 +1,4 @@
-# Code and analysis from: A Chemoselective and Stereodivergent Platform of Heme-Nitrene Transferases to Access Chiral Aryl-β-Amino Esters and Investigation of the Sequence-Activity Landscape
+## Code for: A Chemoselective and Stereodivergent Platform of Heme-Nitrene Transferases to Access Chiral Aryl-β-Amino Esters and Investigation of the Sequence-Activity Landscape
 
 This repo contains the code and analysis to reproduce the data mining and figures that were generated from the paper above. Here we profiled teh sequence function landscape across a classical directed evolution campaign for two new to nature reactivities. 
 
