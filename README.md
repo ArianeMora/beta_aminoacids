@@ -28,6 +28,10 @@ SFig12_VariantDataAcrossCampaign.ipynb is to look at specific positions across t
 
 Fig4_SingleVariantValidation.ipynb is just a figure of the results from the experiments of the ones that were successful from the data mining approach.
 
+## Data
+
+Data will be made publicly available on zenodo on publishing of release: https://zenodo.org/uploads/16969555
+
 ## Citation
 
 coming soon.
